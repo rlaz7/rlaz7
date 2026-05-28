@@ -14,7 +14,7 @@
 
 <!-- Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/rlaz7?style=for-the-badge&logo=github&color=0a0e1a&labelColor=0d2137&logoColor=00d4ff&label=Followers)](https://github.com/rlaz7)
-[![Profile Views](https://komarev.com/ghpvc/?username=rlaz7&style=for-the-badge&color=1a1a5e&label=電撃+VISITORS&labelColor=0d2137)](https://github.com/rlaz7)
+[![Profile Views](https://komarev.com/ghpvc/?username=rlaz7&style=for-the-badge&color=1a1a5e&label=👁️+VISITORS&labelColor=0d2137)](https://github.com/rlaz7)
 [![GitHub Stars](https://img.shields.io/github/stars/rlaz7?style=for-the-badge&logo=starship&color=0a0e1a&labelColor=0d2137&logoColor=ffd700&label=Stars)](https://github.com/rlaz7)
 
 </div>
@@ -82,7 +82,7 @@ SOON
 
 ## ☁️ Motivation ☁️
 
-```text
+```
 🌧️ "I want you more than blue sky"
     — Weathering with You
 
