@@ -1,16 +1,13 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  Rlaz7 — GitHub Profile README                                     -->
-<!--  Theme: Weathering with You × A Certain Scientific Railgun         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- Git Prof-->
 
 <div align="center">
 
-<!-- ⚡ HEADER BANNER — Electric Sky -->
+<!-- ⚡ HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:0d2137,60:1a1a5e,100:0a0e1a&height=220&section=header&text=rlaz7&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=00d4ff&desc=⚡%20でんき%20×%20☁%20そら&descAlignY=62&descSize=16&descColor=a8b8d8" width="100%"/>
 
-<!-- ⚡ Typing SVG — Railgun Style -->
+<!-- ⚡ Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&pause=500&color=00D4FF&center=true&vCenter=true&width=550&lines=%E2%9A%A1+Level+Upper%3A+Loading...;%F0%9F%90%A7+I+use+Arch+BTW;%F0%9F%8E%AE+RPG+Enjoyer;+I+want+you+more+than+blue+sky+%F0%9F%8C%A6;%F0%9F%94%90+Network+%26+Security+Learner;%E2%98%81%EF%B8%8F+The+sky+clears+for+those+who+persist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&pause=500&color=00D4FF&center=true&vCenter=true&width=550&lines=%E2%9A%A1+Level+Upper%3A+Loading...;%F0%9F%90%A7+I+use+Arch+BTW;%F0%9F%8E%AE+Anything;+I+want+you+more+than+blue+sky+%F0%9F%8C%A6;%F0%9F%94%90+Network+%26+Security+Learner;%E2%98%81%EF%B8%8F+All+about+nothing" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,9 +21,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ⚡  ABOUT — Academy City Terminal                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--
 <div align="center">
 
@@ -52,10 +46,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 📊  GITHUB STATS                                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📊 スタッツ — GitHub Stats
 
 <div align="center">
@@ -66,10 +56,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 🏆  TROPHIES                                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🏆 トロフィー — Achievements
 
 <div align="center">
@@ -79,10 +65,6 @@ SOON
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 📈  ACTIVITY                                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📈 アクティビティ — Activity Graph
 
@@ -137,4 +119,4 @@ SOON
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:1a1a5e,70:0d2137,100:0a0e1a&height=140&section=footer&text= ⚡%20情報%20 %20rlaz7%20 ⚡&fontSize=22&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:1a1a5e,70:0d2137,100:0a0e1a&height=140&section=footer&text=⚡%20情報%20%20rlaz7%20⚡&fontSize=22&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
