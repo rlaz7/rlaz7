@@ -82,24 +82,22 @@ SOON
 
 ## ☁️ Motivation ☁️
 
+```text
+🌧️ "I want you more than blue sky"
+    — Weathering with You
+
+⚡ "Stop lying to yourself and try once more"
+    — Misaka Mikoto, A Certain Scientific Railgun
+
+⚛️ "Just because i've gotten weaker, it doesn't mean
+    that you got stronger"
+    — Accelerator, A Certain Scientific Accelerator
+
+🛏️ "Sleep until you dreaming"
+    — rlaz7
 ```
 
-                                                            
-     🌧️  "I want you more than blue sky"          
-         — Weathering with You                               
-                                                             
-     ⚡  "Stop lying to yourself and try once more"           
-         — Misaka Mikoto, A Certain Scientific Railgun
 
-     ⚛️  "Just because i've gotten weaker, it doesn't mean 
-           that you got stronger"           
-         — Accelerator, A Certain Scientific Accelerator         
-                                                            
-     🛏️  "Sleep until you dreaming"                                 
-         — rlaz7                           
-                                                            
-
-```
 
 ---
 
